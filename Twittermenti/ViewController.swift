@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Twittermenti
 //
-//  Created by Angela Yu on 17/07/2019.
-//  Copyright © 2019 London App Brewery. All rights reserved.
+//  Created by Sergey Starchenkov on 01/02/2021.
+//  Copyright © 2021 Sergey Starchenkov. All rights reserved.
 //
 
 import UIKit
